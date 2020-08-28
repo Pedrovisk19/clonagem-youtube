@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Pedro Souza",
+      "password": null,
+      "email": "peperob12@hotmail.com",
+      "user_id": "Pedrovisik"
+    }
+  ]
+}
